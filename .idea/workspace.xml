@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e837f0-491f-4442-9f20-9fbfca5ec6da" name="Changes" comment="a" />
+    <list default="true" id="18e837f0-491f-4442-9f20-9fbfca5ec6da" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosPOO/Ejercicio5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosPOO/Ejercicio7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EjerciciosPOO/Ejercicio7/NIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EjerciciosPOO/Ejercicio5/Fraccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EjerciciosPOO/Ejercicio5/Fraccion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702396683079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a">
+      <created>1702396994059</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702396994059</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
